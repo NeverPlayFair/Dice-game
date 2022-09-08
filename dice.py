@@ -43,4 +43,4 @@ while x == "c":
         print("| 0     0 |")
         print("| 0     0 |")
         print("-----------")
-    x  = input("Press c if u want play again ")
+    x  = input("Press c if you want play again ")
